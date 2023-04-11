@@ -1,4 +1,4 @@
-# Mini SpotiPy
+# Mini SpotiPy ![LOGO-SPOTIPY](https://user-images.githubusercontent.com/126124866/231182854-3336417a-ddd2-4c92-8f82-6cfbd8aa6a1f.png)
 
 Player de Mp3 feito com python
 
