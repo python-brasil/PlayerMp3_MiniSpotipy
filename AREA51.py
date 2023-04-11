@@ -1,3 +1,5 @@
+#AREA DESTINADA A REALIZAR TODO E QUALQUER TIPO DE TESTE DE CÓDIGO
+
 import tkinter as tk
 
 def on_select(event):
